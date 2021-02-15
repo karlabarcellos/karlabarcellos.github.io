@@ -1,7 +1,7 @@
 ---
 title: 'Trans-Pacific Economic Cooperation Agreement (TPP12)'
 date: 2021-02-12
-permalink: /posts/2021/02/Trans-Pacific Economic Cooperation Agreement/
+permalink: /_posts/2021/02/Trans-Pacific Economic Cooperation Agreement/
 tags:
 - Economics
 - Canada
