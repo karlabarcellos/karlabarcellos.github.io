@@ -47,5 +47,5 @@ Professional courses
 * Multidimensional measurement of poverty (2019)
 * Public Finances, Macroeconomic Indicators (2017)
 
-======
+
 *   Member of the Association of Professional Economists of B.C.
