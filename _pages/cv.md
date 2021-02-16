@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-Education
+## Education
 ======
 * M.S in Public Administration, National Institute of Public Administration (INAP).
 * B.S. in Economics, University of Guadalajara. Thesis: "Monetary policy in Mexico during the period 1994-2012. A theoretical and econometric analysis". 
 Thesis Supervisor: PhD. Enrique Cuevas.
 * Research internship, CUMEX scholarship at National Autonomous University of Mexico. 
 
-Work experience
+## Work experience
 ======
 * 2014-2018: Researcher / Head of Department
   * Center of Studies of the Public Finances in the Direction of Macroeconomic and Sectoral Studies, CEFP (within the Chamber of Deputies of the Mexican Congress). Mexico City
@@ -27,7 +27,7 @@ Work experience
 * Institutional Research Project: “Monetary stability and fiscal discipline in Mexico: subnational indebtedness and alternatives for development financing”. 
 
 
-Skills
+## Skills
 ======
 * Research 
 * Policy design and development
@@ -40,7 +40,7 @@ Skills
 * Data analysis and visualization
 * Leadership
 
-Professional courses
+## Professional courses
 ======
 * Data Science Certificate (HarvardX) (in progress)
 * Investment Funds in Canada (IFC) (2020)
@@ -48,4 +48,4 @@ Professional courses
 * Public Finances, Macroeconomic Indicators (2017)
 
 
-*   Member of the Association of Professional Economists of B.C.
+* Member of the Association of Professional Economists of B.C.
