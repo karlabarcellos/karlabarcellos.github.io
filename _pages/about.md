@@ -33,17 +33,17 @@ Additionally, I love learning new things. I am constantly attending boot camps, 
 
 I like reading and writing fiction and nonfiction, and poetry. I wrote a book about strategy and game theory. In my free time, I am writing a novel called "My three Marias". 
 
-# Media
+# My Media
 
-* [Karla Estefania Romero, newsletter. do not forget to subscribe to my blog, follow me! ](https://us3.campaign-archive.com/?e=&u=4e585f2bb3eddeeb14c8150b8&id=9405622d44)
+* [My Newsletter. Do not forget to subscribe to my blog, follow me!](https://us3.campaign-archive.com/?e=&u=4e585f2bb3eddeeb14c8150b8&id=9405622d44)
 
-* [Serendipia, author: Karla Romero](https://serendipia.digital/author/karlaromero)
+* [Serendipia, author: Karla Estefania Romero](https://serendipia.digital/author/karlaromero)
 
-* [La Politica Online, author: Karla Romero](https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/)
+* [La Politica Online, author: Karla Estefania  Romero](https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/)
 
-* [Meridiano Newspaper, author: Karla Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
+* [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
 
-* [Meridiano Newspaper, author: Karla Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf)
+* [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf)
 
 * [Meridiano Newspaper, more](http://impreso.meridiano.mx/)
 
