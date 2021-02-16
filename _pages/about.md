@@ -41,9 +41,9 @@ La Politica Online: https://www.lapoliticaonline.com.mx/columna/karla-estefania-
 
 Meridiano, newspaper: http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf
 
-                      http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf
+Meridiano, newspaper: http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf
                       
-        More in:      http://impreso.meridiano.mx/
+Meridiano, newspaper. More in: http://impreso.meridiano.mx/
 
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
