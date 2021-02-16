@@ -38,7 +38,6 @@ Some economic studies predicted that continuing with the TPP11, with no U.S. Par
 The basis for the GTAP Computable General Equilibrium Model is the GTAP V9 database with a base year of 2011. This kind of model is being used to analyze the quantitative economic impact in macroeconomic research. In this case, Dade et al. (2017) adapted the model to incorporate Foreign Direct Investments (FDI) and evaluate on the production and demand side. The model integrates the next elements: i) standard national income and expenditure accounts; ii) data of the industry by sector, that represent 57 sectors, 43 of which are good; iii) productions functions for each sector with sector-specific inputs of capital, skilled and unskilled labour, and intermediate inputs; and, iv) a trade account of the international linkages and each sector of the economy. For the simulations, they adopted a 33 products groups aggregation: 11 agricultural and food sectors, 4 primary sectors, 10 industrial sectors, and 8 service sectors. Also, they used 40 economies and regions for the regional disaggregation.
 
 ## Bibliography:
-
 Dade, C., Ciuriak, D., Dadkhah, A., & Xiao, J. (2017). The Art of the Trade Deal: Quantifying the benefits of a TPP without the United States. Canada West Foundation Trade and Investment Centre.
 
 SICE (2019) -Foreign Trade Information System- Organization of American States. Web Page: http://www.sice.oas.org/agreements_e.asp.
@@ -55,4 +54,3 @@ Global Affairs Canada (2018) “Economic impact of Canada’s participation in t
 
 
 -----
-  
