@@ -35,15 +35,17 @@ I like reading and writing fiction and nonfiction, and poetry. I wrote a book ab
 
 # Media
 
-Serendipia: https://serendipia.digital/author/karlaromero
+* [Karla Estefania Romero, newsletter. do not forget to subscribe to my blog, follow me! ](https://us3.campaign-archive.com/?e=&u=4e585f2bb3eddeeb14c8150b8&id=9405622d44)
 
-La Politica Online: https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/
+* [Serendipia, author: Karla Romero](https://serendipia.digital/author/karlaromero)
 
-Meridiano, newspaper: http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf
+* [La Politica Online, author: Karla Romero](https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/)
 
-Meridiano, newspaper: http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf
-                      
-Meridiano, newspaper. More in: http://impreso.meridiano.mx/
+* [Meridiano Newspaper, author: Karla Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
+
+* [Meridiano Newspaper, author: Karla Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf)
+
+* [Meridiano Newspaper, more](http://impreso.meridiano.mx/)
 
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
