@@ -33,5 +33,17 @@ Additionally, I love learning new things. I am constantly attending boot camps, 
 
 I like reading and writing fiction and nonfiction, and poetry. I wrote a book about strategy and game theory. In my free time, I am writing a novel called "My three Marias". 
 
+# Media
+
+Serendipia: https://serendipia.digital/author/karlaromero
+
+La Politica Online: https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/
+
+Meridiano, newspaper: http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf
+
+                      http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf
+                      
+        More in:      http://impreso.meridiano.mx/
+
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
