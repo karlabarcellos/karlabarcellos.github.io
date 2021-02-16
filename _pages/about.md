@@ -10,7 +10,7 @@ redirect_from:
 
 I am an economist with experience in research, statistical and econometric analysis, data analysis, and processing. My credentials include a bachelor’s degree in economics from the University of Guadalajara, Mexico, a Master in Public Administration, and over 7 years in the field of economics.
 
-# My strengths include:
+## My strengths include:
 
 - Economic, financial, and market analysis
 - Design, analysis, and evaluation of the impact of Public Policies
@@ -22,18 +22,18 @@ I am an economist with experience in research, statistical and econometric analy
 
 Additionally, I love learning new things. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies. I especially love teaching. For years, I was a professor of statistics and econometrics at Mexican Universities. 
 
-# Research interests
+## Research interests
 
 - Monetary policy: Impact of the Central Banks decisions in the economic system.
 - Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada (economic and social development).
 - Labour Market, financial, institutional, and organizational framewor. Fiscal policies, federalism and centralism and the debt in subnational governments.
 - Data Science and AI : Impact and regulations of the new technologies in government and Institutional decisions.
 
-# Other interests
+## Other interests
 
 I like reading and writing fiction and nonfiction, and poetry. I wrote a book about strategy and game theory. In my free time, I am writing a novel called "My three Marias". 
 
-# My Media
+### My Media
 
 * [My Newsletter. Do not forget to subscribe to my blog, follow me!](https://us3.campaign-archive.com/?e=&u=4e585f2bb3eddeeb14c8150b8&id=9405622d44)
 
