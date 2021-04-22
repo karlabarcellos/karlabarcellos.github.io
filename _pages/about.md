@@ -8,26 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an economist with experience in research, statistical and econometric analysis, data analysis, and processing. My credentials include a bachelor’s degree in economics from the University of Guadalajara, Mexico, a Master in Public Administration, and over 7 years in the field of economics.
+I am an economist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. I hold a bachelor's degree in economics and a master’s degree in public administration.
 
-## My strengths include:
+I use data-driven frameworks to evaluate public policies and economic development strategies. Currently, I am researching the future of work and education in Canada.
 
-- Economic, financial, and market analysis
-- Design, analysis, and evaluation of the impact of Public Policies
-- Data analysis, visualization, and forecasting
-- Design and implementation of institutional communication strategies
-- Project Management
-- Planning, process improvement and problem-solving
-- Leadership
-
-Additionally, I love learning new things. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies. I especially love teaching. For years, I was a professor of statistics and econometrics at Mexican Universities. 
+Additionally, I love learning new things. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
 ## Research interests
 
-- Monetary policy: Impact of the Central Banks decisions in the economic system.
+
 - Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada (economic and social development).
-- Labour Market, financial, institutional, and organizational framewor. Fiscal policies, federalism and centralism and the debt in subnational governments.
+- Labour Market, financial, institutional, and organizational framework. 
+- Future of work and education in Canada.
+- Fiscal policies, federalism and centralism and the debt in subnational governments.
 - Data Science and AI : Impact and regulations of the new technologies in government and Institutional decisions.
+- Monetary policy: Impact of the Central Banks decisions in the economic system.
 
 ## Other interests
 
@@ -44,8 +39,6 @@ I like reading and writing fiction and nonfiction, and poetry. I wrote a book ab
 * [La Politica Online, author: Karla Estefania  Romero](https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/)
 
 * [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
-
-* [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/03/06/politica/publicidad/2.pdf)
 
 * [Meridiano Newspaper, more](http://impreso.meridiano.mx/)
 
