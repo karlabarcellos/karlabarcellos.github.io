@@ -14,12 +14,12 @@ PAPERS
 
 WORK IN PROGRESS:
 
-## Books
+Books
 
 * Romero (2020). Book: “From Strategy to Game Theory” (Editorial “Sin nombre”, English edition in progress).
 * Arias, Cruz, Romero (2016) “Procyclical fiscal policy and the fiscal cost of monetary stability in Mexico" (English edition in progress).
 
-## Papers
+Papers
 
 * Romero (2021) "Education and labour fource in Canada as a result of the fourth technological revolution"
 * Cuevas, Romero (2021) “ Effect of monetary policy on the access to private financing for companies during COVID-19”.
