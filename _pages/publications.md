@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## PUBLICATIONS
-
 PAPERS
 
 * Barcellos, Arias, Cruz (2016) “Special Economic Zones: success or failure? An approach to the Mexican case”, presented at the V International Congress and XV National Congress of Research and Service. Territory, Society, Development and Environment. Interdisciplinary Approach, Autonomous University of Chapingo.
