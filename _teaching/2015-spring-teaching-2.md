@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Postgraduate course"
+permalink: /teaching/2016-2019-UNAM
+venue: "National Autonomous University of Mexico (UNAM), Economics Department"
+date: 2016-2019
+location: "Mexico City, Mexico"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lectures on statistics, econometrics, and researching methodology.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
