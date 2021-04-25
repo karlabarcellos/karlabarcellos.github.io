@@ -6,8 +6,6 @@ collection: portfolio
 
 <br/><img src='/images/Canadian cigarrete sales.png'> 
 
-<br/><img src='/images/Canadian new motor vehicle sales colors.png'> 
-
 <br/><img src='/images/Canadian new motor vehicle sales.png'> 
 
 <br/><img src='/images/Evolution vehicle type by passenger cars and trucks.png'> 
