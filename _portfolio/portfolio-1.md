@@ -1,7 +1,7 @@
 ---
 title: "Employment Charts - Canada and selected provinces by gender and education, February 2021 "
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Employment Rate by Educational Attainment Full-time employment Males item number 1<br/><img src='/images/Full-time_employment_Males_3_erate_1_pch.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+. 
