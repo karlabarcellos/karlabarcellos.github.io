@@ -11,6 +11,8 @@ tags:
 
 ## Implications for Canada of the non-participation of the U.S. in the Trans-Pacific Partnership
   
+Some economic studies predicted that continuing with the TPP11, with no U.S. Participation, would produce less positive economic results but still benefit the remaining countries. Canada would benefit most (Second to Mexico) with TPP11, with a projected gain of $ 3.4 billion (greater than the estimated $ 2.8 billion in TPP12). With the TPP11, BC will be able to commerce with the other 8 countries and have many opportunities for expansion. BC can also analyze the benefits for trading and consider the positive ways to capture market shares from American competitors. Additionally, there is the opportunity to have a better deal with the UMSCA, looking for better negotiation terms that favor commercial relations. However, the macroeconomic context must be considered, for instance, the evolution of economic partnership, international evolution, and the risks derived from climate change.
+
 BACKGROUND:
   
 The Trans-Pacific Economic Cooperation Agreement (TPP12), is a commercial free trade pact, signed in February 2016 by 12 countries in Asia, America, and Oceania countries that border the Pacific. Since its integration and during its operation, these countries observed various economic benefits derived from the deal (SICE, 2019).
