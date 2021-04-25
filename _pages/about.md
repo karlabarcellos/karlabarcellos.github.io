@@ -12,7 +12,7 @@ I am an economist with extensive experience leading research, statistical and ec
 
 I use data-driven frameworks to evaluate public policies and economic development strategies. Currently, I am researching the future of work and education in Canada.
 
-Additionally, I love learning new things. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
+Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
 ## Research interests
 
@@ -40,7 +40,6 @@ I like reading and writing fiction and nonfiction, and poetry. I wrote a book ab
 
 * [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
 
-* [Meridiano Newspaper, more](http://impreso.meridiano.mx/)
 
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
