@@ -10,3 +10,7 @@ collection: portfolio
 
 <br/><img src='/images/Evolution vehicle type by passenger cars and trucks.png'> 
 
+<br/><img src='/images/Canadian new motor vehicle sales stl.png'> 
+
+<br/><img src='/images/units lost demolished per unit created.png'> 
+
