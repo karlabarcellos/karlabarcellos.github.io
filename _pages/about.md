@@ -14,6 +14,8 @@ I use data-driven frameworks to evaluate public policies and economic developmen
 
 Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
+(images/aboutme.JPG)
+
 ## Research interests
 
 
