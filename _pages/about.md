@@ -14,7 +14,7 @@ I use data-driven frameworks to evaluate public policies and economic developmen
 
 Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
-<br/><img src='/images/aboutme.JPG'>  
+[![alttext](/images/aboutme.JPG)](https://karlabarcellos.github.io/)
 
 ## Research interests
 
@@ -42,6 +42,6 @@ I like reading and writing fiction and nonfiction, and poetry. I wrote a book ab
 
 * [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
 
-[![alttext](/images/aboutme.JPG)](https://karlabarcellos.github.io/)
+
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
