@@ -1,12 +1,12 @@
 ---
 permalink: /
+header-img: "/images/aboutme.JPG"
 title: "About me"
 excerpt: "About me"
-header-img: "/images/aboutme.JPG"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.md
 ---
 
 I am an economist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. I hold a bachelor's degree in economics and a master’s degree in public administration.
