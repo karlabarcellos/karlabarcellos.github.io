@@ -1,5 +1,4 @@
 ---
-og_image: "/images/aboutme.JPG"
 permalink: /
 title: "About me"
 excerpt: "About me"
