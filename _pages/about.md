@@ -1,6 +1,6 @@
 ---
+og_image: "/images/aboutme.JPG"
 permalink: /
-header-img: "/images/aboutme.JPG"
 title: "About me"
 excerpt: "About me"
 author_profile: true
