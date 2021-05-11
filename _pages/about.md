@@ -1,8 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Karla Barcellos"
-subtitle: "Economist" 
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
