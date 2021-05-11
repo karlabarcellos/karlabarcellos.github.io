@@ -14,3 +14,4 @@ collection: portfolio
 
 <br/><img src='/images/units lost demolished per unit created.png'> 
 
+Source https://github.com/mountainMath/cansim/blob/master/vignettes/working_with_large_tables.Rmd
