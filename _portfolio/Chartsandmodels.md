@@ -3,7 +3,7 @@ title: "Selected charts, maps and models - Canada and provinces, March 2021 "
 collection: portfolio
 ---
 
-Source https://github.com/mountainMath/cansim/blob/master/vignettes/working_with_large_tables.Rmd
+* [Source](https://github.com/mountainMath/cansim/blob/master/vignettes/working_with_large_tables.Rmd)
 
 <br/><img src='/images/canadian cigarres monthly sales.png'>  
 
