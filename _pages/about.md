@@ -1,7 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "2021"
+title: "Karla Barcellos"
+subtitle: "Economist" 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
