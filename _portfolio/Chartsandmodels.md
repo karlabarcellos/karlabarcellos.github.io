@@ -2,8 +2,7 @@
 title: "Selected charts, maps and models - Canada and provinces, March 2021 "
 collection: portfolio
 ---
-von Bergmann, J., Dmitry Shkolnik (2021). cansim: functions and convenience tools for accessing Statistics Canada data tables. v0.3.7 
-[Source](https://github.com/mountainMath/cansim/blob/master/vignettes/working_with_large_tables.Rmd)
+
 
 <br/><img src='/images/canadian cigarres monthly sales.png'>  
 
@@ -17,4 +16,5 @@ von Bergmann, J., Dmitry Shkolnik (2021). cansim: functions and convenience tool
 
 <br/><img src='/images/units lost demolished per unit created.png'> 
 
-
+von Bergmann, J., Dmitry Shkolnik (2021). cansim: functions and convenience tools for accessing Statistics Canada data tables. v0.3.7 
+[Source](https://github.com/mountainMath/cansim/blob/master/vignettes/working_with_large_tables.Rmd)
