@@ -1,4 +1,5 @@
 
+# Kickstarter Challenge 
 ## **Overview**
 
 The executive team of a small board game company has approached you seeking **assistance with setting up their Kickstarter campaign.** The team has decided that they will need a **minimum of $15,000 USD** to get this project off the ground. However, they have ambitions of expanding the business and would like **to maximize their funding.** They must decide how much money to ask for and determine how many backers they will need to succeed.
