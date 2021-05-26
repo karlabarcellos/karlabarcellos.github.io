@@ -15,7 +15,7 @@ I use data-driven frameworks to evaluate public policies and economic developmen
 
 Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
-[![alttext](/images/aboutme.png](https://karlabarcellos.github.io/)
+[![alttext](/images/aboutme.png)(https://karlabarcellos.github.io/)
 
 ## Research interests
 
