@@ -1,3 +1,4 @@
+[![alttext](/images/purpledata.png)
 
 # Kickstarter Challenge 
 ## **Overview**
