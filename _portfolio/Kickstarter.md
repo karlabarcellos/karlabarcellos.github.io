@@ -1,6 +1,5 @@
-# BRAINSTATION - Karla Romero Admissions Challenge
 
-## **Challenge Overview**
+## **Overview**
 
 The executive team of a small board game company has approached you seeking **assistance with setting up their Kickstarter campaign.** The team has decided that they will need a **minimum of $15,000 USD** to get this project off the ground. However, they have ambitions of expanding the business and would like **to maximize their funding.** They must decide how much money to ask for and determine how many backers they will need to succeed.
 
@@ -9,6 +8,8 @@ The executive team of a small board game company has approached you seeking **as
 **Context to the problem**
 
 We reviewed the data for 15,000 cases where 11,772 of them established their goals in US Dollars, with a minimum of $1 USD and a maximum of $100,000,000 USD. The average funding that they asked for was $72,361 USD. For the 4,369 successful cases, the average goal was $9,976 USD, when the average goal for the successful projects was $104,449 USD. Within the unsuccessful cases, specifically, the "Failed" cases had an average of $101,653 USD. We can see that there are more projects with goals closed to a round number closer to the thousands of dollars. 
+
+[![alttext](/images/chart_2.png)
 
 The campaign durations are about 1 and 92 days, with a general average of 34 days (32 days in successful cases and 35 in unsuccessful cases). The countries with most of the campaigns were the US, the UK, and Canada (78%, 8%. and 3% of the total cases, respectively). 
 
@@ -30,21 +31,8 @@ The most successful board game company was "Gloomhaven (Second Printing)". It ra
 
 Finally, in terms of countries, the most successful campaigns in terms of the number of campaigns backed were the US with 4, 365 successful campaigns, then 1 with 847, and then 3 with 137. In the future, it will be necessary to analyze by year and dollars to find important trends in our database. With the present analysis, we can not affirm a relation between the length of the campaign and the raise of the money. 
 
-### **Part 2 - Visualize the Data. T**rends, patterns, and oddities in the data.
 
-![BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_1.png](BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_1.png)
-
-![BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_2.png](BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_2.png)
-
-![BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_5.png](BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_5.png)
-
-![BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_4.png](BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_4.png)
-
-![BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_3.png](BRAINSTATION%20-%20Karla%20Romero%20Admissions%20Challenge%200baf29bb927f46c998e6640a855d8dac/chart_3.png)
-
----
-
-**Part 3 - Findings & Recommendations**
+# Findings & Recommendations**
 
 Looking at the general games and the board games, I will recommend a duration between 29 and 33 days, with an optimal of 30 days following the average length in success cases. The company should aim to have a goal between 1 and $25,000 USD. However, we should analyze the probabilities of success in more detail in the future.
 
@@ -58,7 +46,7 @@ Sources: BrainStation Database.
 
 # SQL Queries
 
-## Karla Romero - **Report**
+**Report**
 
 **Data Dictionary**
 
