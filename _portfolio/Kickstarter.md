@@ -8,13 +8,13 @@ collection: portfolio
 
 ## **Overview**
 
-The executive team of a small board game company has approached you seeking **assistance with setting up their Kickstarter campaign.** The team has decided that they will need a **minimum of $15,000 USD** to get this project off the ground. However, they have ambitions of expanding the business and would like **to maximize their funding.** They must decide how much money to ask for and determine how many backers they will need to succeed.
+The executive team of a small board game company has approached you seeking **assistance with setting up their Kickstarter campaign.** The team has decided that they will need a **minimum of 15,000 USD** to get this project off the ground. However, they have ambitions of expanding the business and would like **to maximize their funding.** They must decide how much money to ask for and determine how many backers they will need to succeed.
 
 ### Report
 
 **Context to the problem**
 
-We reviewed the data for 15,000 cases where 11,772 of them established their goals in US Dollars, with a minimum of $1 USD and a maximum of $100,000,000 USD. The average funding that they asked for was $72,361 USD. For the 4,369 successful cases, the average goal was $9,976 USD, when the average goal for the successful projects was $104,449 USD. Within the unsuccessful cases, specifically, the "Failed" cases had an average of $101,653 USD. We can see that there are more projects with goals closed to a round number closer to the thousands of dollars. 
+We reviewed the data for 15,000 cases where 11,772 of them established their goals in US Dollars, with a minimum of 1 USD and a maximum of 100,000,000 USD. The average funding that they asked for was 72,361 USD. For the 4,369 successful cases, the average goal was 9,976 USD, when the average goal for the successful projects was 104,449 USD. Within the unsuccessful cases, specifically, the "Failed" cases had an average of 101,653 USD. We can see that there are more projects with goals closed to a round number closer to the thousands of dollars. 
 
 ![alttext](/images/chart_2.png)
 
@@ -22,9 +22,9 @@ The campaign durations are about 1 and 92 days, with a general average of 34 day
 
 ![alttext](/images/chart_1.png)
 
-To be able to analyze the pledged and goal per country and currency we would have to analyze the currencies in a single exchange rate, in this case, convert all the currencies to dollars. However, for a matter of time, we will analyze only the campaigns reported in dollars, in this case, it only applies to the United States and the United Kingdom. For all the campaigns, the average goal was $9,638 USD while the average goal was $69,386 USD. **In the successful campaigns, the average goal was smaller than the pledged, $9,976 USD average goal while $23,117 USD pledged.** 
+To be able to analyze the pledged and goal per country and currency we would have to analyze the currencies in a single exchange rate, in this case, convert all the currencies to dollars. However, for a matter of time, we will analyze only the campaigns reported in dollars, in this case, it only applies to the United States and the United Kingdom. For all the campaigns, the average goal was 9,638 USD while the average goal was 69,386 USD. **In the successful campaigns, the average goal was smaller than the pledged, 9,976 USD average goal while 23,117 USD pledged.** 
 
-On the other hand, unsuccessful campaigns asked for an average goal of $104,449 USD, having an average pledged of $1, 683 USD. 
+On the other hand, unsuccessful campaigns asked for an average goal of 104,449 USD, having an average pledged of 1,683 USD. 
 
 The number of backers that support this kind of campaign is wide, it starts in only 1 and finishes with 105,857 supporters. Of the total of successful cases, 39% of them had more than 100 backers. This means that, of a total of 4,365 campaigns, 1,702 had more than 100 supporters. While the failed and canceled had mostly less than 10 backers (82% of the canceled and 85% of the failed campaigns). 
 
@@ -36,11 +36,11 @@ The average length of their campaigns was 36 days for the first two places and 3
 
 The top three that raised the most money in the successful campaigns calculated by average pledged were Technology, Games, and Design. While the bottom three were Theater, Crafts, and Dance. The differences between the top and bottom represent the trends in the support for the development of new technologies and entertainment sources such as in games and design. I think that these categories have fewer backers than the top but these backers consider a big amount of money, especially because of their technological requirement that usually needs more funding.
 
-Looking in the general games, they have an average length of 30 days, establishing an average goal of $13,893 USD, with an average pledge of $60,950 USD, this means an average gain of $47,057 USD. We need to consider this number carefully because can be some outliers that higher than the average expected gain. Analyzing the board games, that are part of the subcategory of Tabletop Games, they have an average length of 30 days as well, and an average goal of $10,853 USD, an average pledge of $67,519 USD, with an average gain of $56,666 USD. We can observe how board games established a smaller goal and had a higher pledge than the general games. Also, the board games have a higher number of backers, on average they had 902 in the period analyzed.  
+Looking in the general games, they have an average length of 30 days, establishing an average goal of 13,893 USD, with an average pledge of 60,950 USD, this means an average gain of 47,057 USD. We need to consider this number carefully because can be some outliers that higher than the average expected gain. Analyzing the board games, that are part of the subcategory of Tabletop Games, they have an average length of 30 days as well, and an average goal of 10,853 USD, an average pledge of 67,519 USD, with an average gain of 56,666 USD. We can observe how board games established a smaller goal and had a higher pledge than the general games. Also, the board games have a higher number of backers, on average they had 902 in the period analyzed.  
 
 ![alttext](/images/chart_4.png)
 
-The most successful board game company was "Gloomhaven (Second Printing)". It raised $3,999,795 USD in 2017, after 28 days and the support of  40,642 backers. Their goal was only $100,000 USD. The second one was Ghostbusters™: The Board Game, and the third one Shadows of Brimstone. It is important to mention that fourth place was Robot Turtles: The Board Game for Little Programmers. 
+The most successful board game company was "Gloomhaven (Second Printing)". It raised 3,999,795 USD in 2017, after 28 days and the support of  40,642 backers. Their goal was only 100,000 USD. The second one was Ghostbusters™: The Board Game, and the third one Shadows of Brimstone. It is important to mention that fourth place was Robot Turtles: The Board Game for Little Programmers. 
 
 ![alttext](/images/chart_3.png)
 
@@ -49,13 +49,13 @@ Finally, in terms of countries, the most successful campaigns in terms of the nu
 
 # Findings & Recommendations
 
-Looking at the general games and the board games, I will recommend a duration between 29 and 33 days, with an optimal of 30 days following the average length in success cases. The company should aim to have a goal between 1 and $25,000 USD. However, we should analyze the probabilities of success in more detail in the future.
+Looking at the general games and the board games, I will recommend a duration between 29 and 33 days, with an optimal of 30 days following the average length in success cases. The company should aim to have a goal between 1 and 25,000 USD. However, we should analyze the probabilities of success in more detail in the future.
 
-My recommendation is to aim at a goal of $25,000 USD maximizing the founding but in line with the average of the successful experiences. In case that the company can work on a good strategy to connect with a big number of backers, I will consider setting the goal is $10,000 USD with the expectation of having a gain of at least fourth times gains. This is considering the tendency of the games and table games aiming small goals and raised so much money at the end of the campaign.
+My recommendation is to aim at a goal of 25,000 USD maximizing the founding but in line with the average of the successful experiences. In case that the company can work on a good strategy to connect with a big number of backers, I will consider setting the goal is 10,000 USD with the expectation of having a gain of at least fourth times gains. This is considering the tendency of the games and table games aiming small goals and raised so much money at the end of the campaign.
 
-Also, because the board games have a higher number of backers, on average they had 902 in the period analyzed, the company can implement resources to aim at least this 902 backers, with a minimum of $27 USD per backer the company can raise at least the $25,000 USD goal. Also, it is important to analyze the resources used by the big top 20 of most successful board game companies. In terms of countries and currency, I will recommend aim the campaign to the US in USD.
+Also, because the board games have a higher number of backers, on average they had 902 in the period analyzed, the company can implement resources to aim at least this 902 backers, with a minimum of 27 USD per backer the company can raise at least the 25,000 USD goal. Also, it is important to analyze the resources used by the big top 20 of most successful board game companies. In terms of countries and currency, I will recommend aim the campaign to the US in USD.
 
-Sources: BrainStation Database.
+Sources: Own elaboration with information provided by BrainStation Database.
 
 ---
 
@@ -91,7 +91,7 @@ SELECT * FROM country;
 SELECT * FROM sub_category;
 ```
 
-Average general goal in dollars:  $69,386.78
+Average general goal in dollars:  USD 69,386.78
 
 ```sql
 SELECT AVG(goal)
