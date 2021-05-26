@@ -41,7 +41,7 @@ The most successful board game company was "Gloomhaven (Second Printing)". It ra
 Finally, in terms of countries, the most successful campaigns in terms of the number of campaigns backed were the US with 4, 365 successful campaigns, then 1 with 847, and then 3 with 137. In the future, it will be necessary to analyze by year and dollars to find important trends in our database. With the present analysis, we can not affirm a relation between the length of the campaign and the raise of the money. 
 
 
-# Findings & Recommendations**
+# Findings & Recommendations
 
 Looking at the general games and the board games, I will recommend a duration between 29 and 33 days, with an optimal of 30 days following the average length in success cases. The company should aim to have a goal between 1 and $25,000 USD. However, we should analyze the probabilities of success in more detail in the future.
 
