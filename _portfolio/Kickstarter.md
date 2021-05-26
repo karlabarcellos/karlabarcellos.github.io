@@ -6,7 +6,6 @@ collection: portfolio
 
 ![alttext](/images/purpledata.png)
 
-# Kickstarter Challenge 
 ## **Overview**
 
 The executive team of a small board game company has approached you seeking **assistance with setting up their Kickstarter campaign.** The team has decided that they will need a **minimum of $15,000 USD** to get this project off the ground. However, they have ambitions of expanding the business and would like **to maximize their funding.** They must decide how much money to ask for and determine how many backers they will need to succeed.
@@ -17,11 +16,11 @@ The executive team of a small board game company has approached you seeking **as
 
 We reviewed the data for 15,000 cases where 11,772 of them established their goals in US Dollars, with a minimum of $1 USD and a maximum of $100,000,000 USD. The average funding that they asked for was $72,361 USD. For the 4,369 successful cases, the average goal was $9,976 USD, when the average goal for the successful projects was $104,449 USD. Within the unsuccessful cases, specifically, the "Failed" cases had an average of $101,653 USD. We can see that there are more projects with goals closed to a round number closer to the thousands of dollars. 
 
-[![alttext](/images/chart_2.png)
+![alttext](/images/chart_2.png)
 
 The campaign durations are about 1 and 92 days, with a general average of 34 days (32 days in successful cases and 35 in unsuccessful cases). The countries with most of the campaigns were the US, the UK, and Canada (78%, 8%. and 3% of the total cases, respectively). 
 
-[![alttext](/images/chart_1.png)
+![alttext](/images/chart_1.png)
 
 To be able to analyze the pledged and goal per country and currency we would have to analyze the currencies in a single exchange rate, in this case, convert all the currencies to dollars. However, for a matter of time, we will analyze only the campaigns reported in dollars, in this case, it only applies to the United States and the United Kingdom. For all the campaigns, the average goal was $9,638 USD while the average goal was $69,386 USD. **In the successful campaigns, the average goal was smaller than the pledged, $9,976 USD average goal while $23,117 USD pledged.** 
 
@@ -29,7 +28,7 @@ On the other hand, unsuccessful campaigns asked for an average goal of $104,449 
 
 The number of backers that support this kind of campaign is wide, it starts in only 1 and finishes with 105,857 supporters. Of the total of successful cases, 39% of them had more than 100 backers. This means that, of a total of 4,365 campaigns, 1,702 had more than 100 supporters. While the failed and canceled had mostly less than 10 backers (82% of the canceled and 85% of the failed campaigns). 
 
-[![alttext](/images/chart_5.png)
+![alttext](/images/chart_5.png)
 
 Also, there are 15 different categories. In general, the top three categories with the most backers are first place Film&Video with 2,158 cases, Music with 1,783 cases, and Publishing with 1,291 cases. While in the bottom three are the categories Journalism (94 campaigns), Dance (102 campaigns), and Crafts (271 campaigns). 
 
@@ -39,11 +38,11 @@ The top three that raised the most money in the successful campaigns calculated 
 
 Looking in the general games, they have an average length of 30 days, establishing an average goal of $13,893 USD, with an average pledge of $60,950 USD, this means an average gain of $47,057 USD. We need to consider this number carefully because can be some outliers that higher than the average expected gain. Analyzing the board games, that are part of the subcategory of Tabletop Games, they have an average length of 30 days as well, and an average goal of $10,853 USD, an average pledge of $67,519 USD, with an average gain of $56,666 USD. We can observe how board games established a smaller goal and had a higher pledge than the general games. Also, the board games have a higher number of backers, on average they had 902 in the period analyzed.  
 
-[![alttext](/images/chart_4.png)
+![alttext](/images/chart_4.png)
 
 The most successful board game company was "Gloomhaven (Second Printing)". It raised $3,999,795 USD in 2017, after 28 days and the support of  40,642 backers. Their goal was only $100,000 USD. The second one was Ghostbusters™: The Board Game, and the third one Shadows of Brimstone. It is important to mention that fourth place was Robot Turtles: The Board Game for Little Programmers. 
 
-[![alttext](/images/chart_3.png)
+![alttext](/images/chart_3.png)
 
 Finally, in terms of countries, the most successful campaigns in terms of the number of campaigns backed were the US with 4, 365 successful campaigns, then 1 with 847, and then 3 with 137. In the future, it will be necessary to analyze by year and dollars to find important trends in our database. With the present analysis, we can not affirm a relation between the length of the campaign and the raise of the money. 
 
