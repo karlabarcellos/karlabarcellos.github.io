@@ -7,4 +7,4 @@ Url: 'http://academicpages.github.io/files/LMDA.pdf'
 ---
 
 
-<br/><img src='/images/LMDA.png'>  
+<br/><img src='/images/LMDA.PNG'>  
