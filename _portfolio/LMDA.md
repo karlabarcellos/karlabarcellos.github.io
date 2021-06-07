@@ -6,5 +6,5 @@ date: 2021-06-07
 Url: 'http://karlabarcellos.github.io/files/LMDA.pdf'
 ---
 
+![alttext](/images/LMDA.PNG)
 
-<br/><img src='/images/LMDA.PNG'>  
