@@ -46,3 +46,6 @@ As Paul Krugman [tweeted](https://twitter.com/paulkrugman/status/977290827507666
 Authors: Lilia Garcia Manrique & Karla Barcellos
 
 Article originally published in Spanish in Foreign Affairs Latinoamerica: https://revistafal.com/el-bienestar-y-los-mercados-financieros-en-brasil-y-mexico/
+
+-----
+
