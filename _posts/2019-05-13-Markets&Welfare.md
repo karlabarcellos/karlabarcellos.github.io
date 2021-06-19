@@ -10,7 +10,6 @@ tags:
 - Markets
 ---
 
-## Markets & Welfare
 
 International financial markets are sensible and behave accordingly to changes in government ideologies. Statements made by Trump and newly elected presidents in Latin America have created shocks in the international financial markets. In this regard credit rating agencies have already made their forethoughts. Seemly, there is a tendency favoring right-wing governments over left-wing ones. By the end of 2018 two of the biggest Latin American economies elected new presidents from opposite political ideologies. Markets talked: they championed the right-wing president over the left-wing one.
 
@@ -49,5 +48,5 @@ Authors: Karla Barcellos & Lilia Garcia Manrique
 
 Article originally published in Spanish in Foreign Affairs Latinoamerica: https://revistafal.com/el-bienestar-y-los-mercados-financieros-en-brasil-y-mexico/
 
------
+---
 
