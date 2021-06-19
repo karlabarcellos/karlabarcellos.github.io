@@ -43,7 +43,7 @@ In contrast with the efficient market hypothesis in these cases prices reflect p
 As Paul Krugman [tweeted](https://twitter.com/paulkrugman/status/977290827507666944) “The stock market is not the economy”. The new presidents in office have a learning opportunity as they begin their mandate. This first year in office will be crucial for both countries. AMLO should demonstrate that his social priorities are not in conflict with macroeconomic stability. Bolsonaro will have to keep the promises he has already made to the markets. Both should rethink their almost blind trust on foreign capital as the main economic growth driver. Otherwise, the meager economic growth will continue to be at stake of mercurial reactions of the market. 
 
 
-Authors: Lilia Garcia Manrique & Karla Barcellos
+Authors: Karla Barcellos & Lilia Garcia Manrique  
 
 Article originally published in Spanish in Foreign Affairs Latinoamerica: https://revistafal.com/el-bienestar-y-los-mercados-financieros-en-brasil-y-mexico/
 
