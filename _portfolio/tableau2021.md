@@ -10,26 +10,26 @@ collection: portfolio
 <br/><img src='/images/vis ex9.png'>
 ---
 ---
-<br/><img src='/images/vis_ex8.png'>
+<br/><img src='/images/vis ex8.png'>
 ---
 ---
-<br/><img src='/images/vis_ex1.png'> 
+<br/><img src='/images/vis ex1.png'> 
 ---
 ---
-<br/><img src='/images/vis_ex5.png'> 
+<br/><img src='/images/vis ex5.png'> 
 ---
 ---
-<br/><img src='/images/vis_ex6.png'>  
+<br/><img src='/images/vis ex6.png'>  
 ---
 ---
-<br/><img src='/images/vis_ex7.png'>
+<br/><img src='/images/vis ex7.png'>
 ---
 ---
-<br/><img src='/images/vis_ex2.png'>
+<br/><img src='/images/vis ex2.png'>
 ---
 ---
-<br/><img src='/images/vis_ex3.png'>
+<br/><img src='/images/vis ex3.png'>
 ---
 ---
-<br/><img src='/images/vis_ex4.png'>
+<br/><img src='/images/vis ex4.png'>
 ---
