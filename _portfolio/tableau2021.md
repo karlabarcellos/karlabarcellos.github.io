@@ -1,13 +1,13 @@
 ---
 title: "Charts - Sales and categories - Examples working with tableau, July 2021 "
-excerpt: "<br/><img src='/images/vis_ex0.png'>"  
+excerpt: "<br/><img src='/images/vis ex0.png'>"  
 collection: portfolio
 ---
 ---
-<br/><img src='/images/vis_ex0.png'>
+<br/><img src='/images/vis ex0.png'>
 ---
 ---
-<br/><img src='/images/vis_ex9.png'>
+<br/><img src='/images/vis ex9.png'>
 ---
 ---
 <br/><img src='/images/vis_ex8.png'>
