@@ -1,5 +1,5 @@
 ---
-title: "Charts - Sales and categories - Examples working with tableau, July 2021 "
+title: "Charts - Sales and categories - Examples using Tableau, July 2021 "
 excerpt: "<br/><img src='/images/vis ex0.png'>"  
 collection: portfolio
 ---
