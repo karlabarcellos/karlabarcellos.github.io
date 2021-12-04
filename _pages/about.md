@@ -11,7 +11,7 @@ redirect_from:
 
 I am an economist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. I hold a bachelor's degree in economics and a master’s degree in public administration.
 
-I use data-driven frameworks to evaluate public policies and economic development strategies. Currently, I am researching the future of work and education in Canada.
+I use data-driven frameworks to evaluate public policies and economic development strategies, I've been studying and working on national and sub-national programs. I evaluate programs related to monetary and fiscal policies, poverty, social mobility, debt, circular economy, future of work, and education in Mexico, the United States, and Canada.
 
 Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
@@ -20,11 +20,12 @@ Additionally, I love learning. I am constantly attending boot camps, reading, an
 ## Research interests
 
 
+- Data and Reporting: Real-time reporting, data analysis and visualizations.
+- Data Science and AI : Data science techniques and the impact and regulations of the new technologies in government and Institutional decisions.
 - Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada (economic and social development).
 - Labour Market, financial, institutional, and organizational framework. 
 - Future of work and education in Canada.
 - Fiscal policies, federalism and centralism and the debt in subnational governments.
-- Data Science and AI : Impact and regulations of the new technologies in government and Institutional decisions.
 - Monetary policy: Impact of the Central Banks decisions in the economic system.
 
 ## Other interests
