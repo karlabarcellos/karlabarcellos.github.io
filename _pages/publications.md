@@ -8,6 +8,7 @@ author_profile: true
 PAPERS
 
 * Barcellos, Arias, Cruz (2016) “Special Economic Zones: success or failure? An approach to the Mexican case”, presented at the V International Congress and XV National Congress of Research and Service. Territory, Society, Development and Environment. Interdisciplinary Approach, Autonomous University of Chapingo.
+* Barcellos, Arias, Cruz (2021) "The Phillips Curve in Mexico (1980-2019), a death foretold?", RIDE Revista Iberoamericana Para La Investigación Y El Desarrollo Educativo, 12(23). https://doi.org/10.23913/ride.v12i23.1035
 
 
 WORK IN PROGRESS:
@@ -22,7 +23,7 @@ Papers
 * Barcellos (2021) "Education and labour fource in Canada as a result of the fourth technological revolution"
 * Barcellos and Cuevas (2021) “ Effect of monetary policy on the access to private financing for companies during COVID-19”.
 * Barcellos (2019) “Indebtedness of the Federal Entities in Mexico 2008-2017. An analysis of the Institutional and Organizational Framework” 
-* Barcellos, Arias, Cruz (2020) "The Phillips Curve in Mexico (1980-2019), a death foretold?", in progress under peer review.
+
 
 RELEVANT INSTITUTIONAL PUBLICATIONS (working and white papers):
 
