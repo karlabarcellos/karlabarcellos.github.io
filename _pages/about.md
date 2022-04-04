@@ -8,6 +8,7 @@ redirect_from:
   - /about.md/
   - /about.html
 ---
+![alttext](/images/aboutme.png)
 
 I am an economist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. I hold a bachelor's degree in economics and a master’s degree in public administration.
 
@@ -15,7 +16,6 @@ I use data-driven frameworks to evaluate public policies and economic developmen
 
 Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
 
-![alttext](/images/aboutme.png)
 
 ## Research interests
 
