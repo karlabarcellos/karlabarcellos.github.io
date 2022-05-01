@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **projects related with housing and labour markets**
 
-- 🤝 I’m looking for help with **my code and documentation**
-
 - 👨‍💻 Some of my projects are available at [https://karlabarcellos.github.io/portfolio/](https://karlabarcellos.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://karlabarcellos.github.io/year-archive/](https://karlabarcellos.github.io/year-archive/)
