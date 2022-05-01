@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karla</h1>
 <h3 align="center">An economist and data analyst from Mexico and Canada</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karlabarcellos&label=Profile%20views&color=0e75b6&style=flat" alt="karlabarcellos" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karlabarcellos" alt="karlabarcellos" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/_karlabarcellos" target="blank"><img src="https://img.shields.io/twitter/follow/_karlabarcellos?logo=twitter&style=for-the-badge" alt="_karlabarcellos" /></a> </p>
 
 - 🔭 I’m currently working on **my Capstone Project for my Data Science Certification**
