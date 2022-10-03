@@ -12,7 +12,7 @@ redirect_from:
 
 Karla Barcellos is an economist with extensive experience leading research, and statistical and econometric analysis on macroeconomics and social issues. She holds a bachelor's degree in economics and a master’s degree in public administration. 
 
-Karla is a data expert with 10 years of experience in research and data analysis in Mexico and Canada. She is currently working as a Senior Data Architect and Data Scientist at the BC Public Agency. 
+Karla is a data expert with 10 years of experience in research and data analysis in Mexico and Canada. She is currently working as a Senior Data Architect and Data Scientist.
 
 Additionally, she loves learning. She is constantly reading and writing about economics, data, new software, and technologies.
 
