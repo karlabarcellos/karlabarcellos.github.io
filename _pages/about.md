@@ -10,11 +10,11 @@ redirect_from:
 ---
 ![alttext](/images/aboutme.png)
 
-I am an economist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. I hold a bachelor's degree in economics and a master’s degree in public administration.
+Karla Barcellos is an economist with extensive experience leading research, and statistical and econometric analysis on macroeconomics and social issues. She holds a bachelor's degree in economics and a master’s degree in public administration. 
 
-I use data-driven frameworks to evaluate public policies and economic development strategies, I've been studying and working on national and sub-national programs. I evaluate programs related to monetary and fiscal policies, poverty, social mobility, debt, circular economy, future of work, and education in Mexico, the United States, and Canada.
+Karla is a data expert with 10 years of experience in research and data analysis in Mexico and Canada. She is currently working as a Senior Data Architect and Data Scientist at the BC Public Agency. 
 
-Additionally, I love learning. I am constantly attending boot camps, reading, and writing about economics, data, new software, and technologies.  
+Additionally, she loves learning. She is constantly reading and writing about economics, data, new software, and technologies.
 
 
 ## Research interests
