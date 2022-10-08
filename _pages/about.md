@@ -28,9 +28,6 @@ Additionally, she loves learning. She is constantly reading and writing about ec
 - Fiscal policies, federalism and centralism and the debt in subnational governments.
 - Monetary policy: Impact of the Central Banks decisions in the economic system.
 
-## Other interests
-
-I like reading and writing fiction and nonfiction, and poetry. I wrote a book about strategy and game theory. In my free time, I am writing a novel called "My three Marias". 
 
 ### My Media
 
