@@ -18,6 +18,8 @@ Thesis Supervisor: PhD. Enrique Cuevas.
 
 ## Work experience
 
+* 2022: Senior Data Architect and Data Scientist
+  *  Data Scientist at Data and Insights Office. Public Service Agency. British Columbia, Canada. 
 * 2021: Data and Reporting Researcher 
   * Property Taxation Branch. Ministry of Finance. British Columbia, Canada. 
 * 2021: Economic Analyst
@@ -38,13 +40,16 @@ Thesis Supervisor: PhD. Enrique Cuevas.
 * Economic, financial, and market analysis
 * Design, analysis, and evaluation of the impact of Public Policies
 * Design and implementation of institutional communication strategies
-* Project management, planning, process improvement and problem-solving
+* Project management, SCRUM Master, planning, process improvement and problem-solving
+* Data architecture
+* Econometrics, Machine Learning and AI.
 * Programming: SQL, R, Stata, QGIS and Python 
 * Data analysis and visualization (Excel, R, SQL, Tableau, PowerBI)
-* Leadership
+* Leadership, Servant leadership. 
 
 ## Professional courses
 
+* Scrum Master Certification (2022)
 * Data Science Certificate (HarvardX) (in progress)
 * Investment Funds in Canada (IFC) (2020)
 * Multidimensional measurement of poverty (2019)
