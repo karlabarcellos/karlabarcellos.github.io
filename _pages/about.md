@@ -22,7 +22,7 @@ Additionally, she loves learning. She is constantly reading and writing about ec
 
 - Data and Reporting: Real-time reporting, data analysis and visualizations.
 - Data Science and AI : Data science techniques and the impact and regulations of the new technologies in government and Institutional decisions.
-- Data governance, data acrhitecture and data strategy.
+- Data governance, data architecture and data strategy.
 - Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada (economic and social development).
 - Labour Market, financial, institutional, and organizational framework. 
 - Future of work and education in Canada.
