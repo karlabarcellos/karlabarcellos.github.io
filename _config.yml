@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Karla Estefanía Barcellos / Senior Data Architect and Data Scientist"
+title                    : "Karla Estefanía Barcellos / Public service professional and economist"
 title_separator          : "-"
 name                     : &name "Karla Barcellos"
-description              : &description "Karla is a Senior Data Architect and Data Scientist with extensive experience leading research, statistical and econometric analysis on macroeconomics and social issues. She holds a bachelor's degree in economics and a master’s degree in public administration."
+description              : &description "I am passionate about catalyzing change. I specialize in strategic planning, data driven decisions, and stakeholder management. I have the ability to navigate complexity and lead transformative initiatives, using my knowledge, my love for data and my years of experience leading projects in the public service in Mexico and Canada."
 url                      : "https://karlabarcellos.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://karlabarcellos.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karla Barcellos"
   avatar           : "profile.png"
-  bio              : "| Economics | Future of Work | Data analytics | Machine Learning | Artificial Intelligence |"
+  bio              : "| Technology and Innovation | Business Leadership | Public Policy | Data Strategy |"
   location         : "B.C, Canada"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
