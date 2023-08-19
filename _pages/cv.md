@@ -11,10 +11,10 @@ redirect_from:
 
 ## Education
 
-* M.S in Public Administration, National Institute of Public Administration (INAP).
+* M.S. in Public Administration, National Institute of Public Administration (INAP).
 * B.S. in Economics, University of Guadalajara. Thesis: "Monetary policy in Mexico during the period 1994-2012. A theoretical and econometric analysis". 
-Thesis Supervisor: PhD. Enrique Cuevas.
-* Research internship, CUMEX scholarship at National Autonomous University of Mexico. 
+Thesis Supervisor: Ph.D. Enrique Cuevas.
+* Research internship, CUMEX scholarship at the National Autonomous University of Mexico. 
 
 ## Work experience
 
@@ -41,7 +41,7 @@ Thesis Supervisor: PhD. Enrique Cuevas.
 * Design, analysis, and evaluation of the impact of Public Policies
 * Design and implementation of institutional communication strategies
 * Project management, SCRUM Master, planning, process improvement and problem-solving
-* Data architecture
+* Data Architecture
 * Econometrics, Machine Learning and AI.
 * Programming: SQL, R, Stata, QGIS and Python 
 * Data analysis and visualization (Excel, R, SQL, Tableau, PowerBI)
@@ -49,6 +49,7 @@ Thesis Supervisor: PhD. Enrique Cuevas.
 
 ## Professional courses
 
+* Supervising in the BC Public Service (2023)
 * Scrum Master Certification (2022)
 * Data Science Certificate (HarvardX) (in progress)
 * Investment Funds in Canada (IFC) (2020)
@@ -57,5 +58,8 @@ Thesis Supervisor: PhD. Enrique Cuevas.
 
 
 ### Member of the Association of Professional Economists of B.C.
+### Member of the Data Visualization Society
+### Member of Latinas in Tech. Chapter Canada
+### Member of Toastmasters Club
 
 
