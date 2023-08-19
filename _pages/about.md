@@ -10,14 +10,14 @@ redirect_from:
 ---
 ![alttext](/images/aboutme.png)
 
-Public service professional and economist. I am passionate about catalyzing change. I specialize in strategic planning, data-driven decisions, and stakeholder management. I have the ability to navigate complexity and lead transformative initiatives, using my knowledge, my love for data and my years of experience leading projects in the public service in Mexico and Canada.
+I am passionate about catalyzing change. I specialize in strategic planning, data-driven decisions, and stakeholder management. I have the ability to navigate complexity and lead transformative initiatives, using my knowledge, my love for data and my years of experience leading projects in the public service in Mexico and Canada.
 
 
 ## Research interests
 
 
 - Data and Reporting: Real-time reporting, data analysis and visualizations.
-- Data Science and AI: Data science techniques and the impact and regulations of the new technologies in government and Institutional decisions.
+- Data Science and AI: Data Science and Artificial Intelligence techniques and the impact and regulations of the new technologies in government and Institutional decisions.
 - Data governance, data architecture and data strategy.
 - Macroeconomics: Evolution, relations and impact of the macroeconomic indicators in Mexico and Canada (economic and social development).
 - Labour Market, financial, institutional, and organizational framework. 
