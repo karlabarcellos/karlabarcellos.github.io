@@ -30,14 +30,6 @@ I am passionate about catalyzing change. I specialize in strategic planning, dat
 
 * [My Newsletter. Do not forget to subscribe to my blog, follow me!](https://karlabarcellos.substack.com/p/coming-soon)
 
-* [Foreign Affairs](https://revistafal.com/el-bienestar-y-los-mercados-financieros-en-brasil-y-mexico/)
-
-* [Serendipia, author: Karla Estefania Romero](https://serendipia.digital/author/karlaromero)
-
-* [La Politica Online, author: Karla Estefania  Romero](https://www.lapoliticaonline.com.mx/columna/karla-estefania-romero/)
-
-* [Meridiano Newspaper, author: Karla Estefania Romero](http://impreso.meridiano.mx/edicion/nayarit/2019/02/27/politica/publicidad/2.pdf) 
-
 
 
 Credits: This profile is based on the fantastic [Academic Pages](https://academicpages.github.io) template and scripts.
