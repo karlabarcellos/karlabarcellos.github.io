@@ -8,7 +8,7 @@ redirect_from:
   - /about.md/
   - /about.html
 ---
-![alttext](/images/aboutme.png)
+![alttext](/images/aboutme.JPG)
 
 I am passionate about catalyzing change. I specialize in strategic planning, data-driven decisions, and stakeholder management. I have the ability to navigate complexity and lead transformative initiatives, using my knowledge, my love for data and my years of experience leading projects in the public service in Mexico and Canada.
 
